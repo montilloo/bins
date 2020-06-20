@@ -1,0 +1,11 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  "app.showWelcome": false,
+  "editor.lineWrapping": true,
+  "app.splitColumns": true,
+  "app.theme": "dark",
+  "app.defaultSave": "jsbin",
+  "javascript.autoRun": false,
+  "editor.fontSize": 16
+}
